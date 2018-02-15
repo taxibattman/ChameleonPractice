@@ -32,9 +32,10 @@ public class TitlesPage {
 		return driver.findElement(By.cssSelector("div.alert.alert-success.alert-dismissable")).isDisplayed();
 	}
 	
-	
-	
-	
-	
-	
+	//public void clickEdit() {
+	//	tblTitles.findElement
+	//	int rowNum = tblTitles.getRowWithCellText("Guardian of the Bathroom");
+	//	tblTitles.findElement(By.tagName("td").).
+		
+	//}	
 }
